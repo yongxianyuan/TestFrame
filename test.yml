@@ -1,0 +1,12 @@
+testcase1:
+    name: wangwu
+    age: 27
+    address: 深圳
+testcase2:
+    name: 张三
+    age: 18
+    address: 广州
+testcase3:
+    name: 刘武
+    age: 29
+    address: 北京
